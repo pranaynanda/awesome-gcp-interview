@@ -6,7 +6,7 @@ Repercussion of my disastrous Google Cloud Platform interview for a job I really
 
 Core GCP Topics
 
-[Cloud Computing](#Cloud-Computing) <br/>
+[Cloud Computing](#cloud-computing) <br/>
 Resource Hierarchy<br/>
 APIs and Services<br/>
 Billing<br/>
@@ -32,7 +32,7 @@ Cloud AutoML and Machine Learning APIs<br/>
 Cloud Shell and Cloud SDK<br/>
 Client Libraries<br/>
 
-### <u> <a name="Cloud Computing"> </a></u>
+### <u>Cloud Computing</u>
 
 
 #### What is Cloud Computing?
