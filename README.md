@@ -6,7 +6,7 @@ Repercussion of my disastrous Google Cloud Platform interview for a job I really
 
 Core GCP Topics
 
-[Cloud Computing](### Cloud Computing) <br/>
+[ Cloud Computing ](### Cloud Computing) <br/>
 Resource Hierarchy<br/>
 APIs and Services<br/>
 Billing<br/>
