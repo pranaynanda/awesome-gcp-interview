@@ -32,7 +32,7 @@ Cloud AutoML and Machine Learning APIs<br/>
 Cloud Shell and Cloud SDK<br/>
 Client Libraries<br/>
 
-### <u><a name="Cloud Computing"></a></u>
+### <u> <a name="Cloud Computing"> </a></u>
 
 
 #### What is Cloud Computing?
