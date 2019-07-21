@@ -6,7 +6,7 @@ Repercussion of my disastrous Google Cloud Platform interview for a job I really
 
 Core GCP Topics
 
-[Cloud Computing](### Cloud Computing) <br/>
+[Cloud Computing](#cloud-computing) <br/>
 Resource Hierarchy<br/>
 APIs and Services<br/>
 Billing<br/>
@@ -31,6 +31,8 @@ AI Platform<br/>
 Cloud AutoML and Machine Learning APIs<br/>
 Cloud Shell and Cloud SDK<br/>
 Client Libraries<br/>
+
+___
 
 ### <u>Cloud Computing</u>
 
@@ -75,9 +77,11 @@ TODO
 
 #### Name some serverless platforms.
 
+---
+
 ### <u>Resource Hierarchy</u>
 
-#### What does
+#### What are the levels of Hierarchy in Google Cloud Platform?
 
 ## Extending Google Cloud:
 
